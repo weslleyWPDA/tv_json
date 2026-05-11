@@ -1,0 +1,14 @@
+Para funcionar a estrutura tem que ser
+
+[
+    {
+        "DNSName": "NOME",
+        "DNSUrl": "LINK:80"
+    },
+    {
+        "DNSName": "NOME",
+        "DNSUrl": "LINK"
+    }
+]
+
+  e converter em Base64 e colar no arquivo dns.php
