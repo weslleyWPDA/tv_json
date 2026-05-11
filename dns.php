@@ -1,10 +1,1 @@
-[
-    {
-        "DNSName": "multi",
-        "DNSUrl": "http://ccpd.pro:80"
-    },
-    {
-        "DNSName": "SEM BASE",
-        "DNSUrl": "http://ph1.fun"
-    }
-]
+WwogICAgewogICAgICAgICJETlNOYW1lIjogIm11bHRpIiwKICAgICAgICAiRE5TVXJsIjogImh0dHA6Ly9jY3BkLnBybzo4MCIKICAgIH0sCiAgICB7CiAgICAgICAgIkROU05hbWUiOiAiTWVnYVRWIiwKICAgICAgICAiRE5TVXJsIjogImh0dHA6Ly9waDEuZnVuIgogICAgfQpd
