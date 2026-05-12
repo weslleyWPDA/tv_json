@@ -11,4 +11,4 @@ Para funcionar a estrutura tem que ser
     }
 ]
 
-  e converter em Base64 e colar no arquivo dns.php
+  e converter em Base64 e colar no arquivo api/dns.php
