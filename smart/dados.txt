@@ -1,0 +1,7 @@
+o codigo do smart iptv e 
+
+
+{"ftg":true,"status":true,"su":"http://ccpd.pro,http://redurl.awpsi.com,http://ph1.fun:80","sc":"","ndd":""}
+
+
+precisa adicionar os links dessa forma no arquivo dns.php
