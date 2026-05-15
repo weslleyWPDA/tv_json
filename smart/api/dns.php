@@ -1,1 +1,1 @@
-<html><head></head><body>{"ftg":true,"status":true,"su":"http://ccpd.pro,http://redurl.awpsi.com,http://ph1.fun:80","sc":"","ndd":""}</body></html>
+{"ftg":true,"status":true,"su":"http://ccpd.pro,http://redurl.awpsi.com,http://ph1.fun:80","sc":"","ndd":""}
